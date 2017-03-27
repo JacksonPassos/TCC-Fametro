@@ -1,3 +1,13 @@
 Referências
 
 http://www.seer.unirio.br/index.php/isys/index
+
+http://www.spell.org.br/periodicos/ver/59/revista-eletronica-de-sistemas-de-informacao
+
+http://seer.ufrgs.br/index.php/rita/
+
+http://www.br-ie.org/pub/index.php/rbie/search/search?query=Recomenda%C3%A7%C3%A3o&authors=&title=&abstract=&galleyFullText=&suppFiles=&dateFromMonth=&dateFromDay=&dateFromYear=&dateToMonth=&dateToDay=&dateToYear=&dateToHour=23&dateToMinute=59&dateToSecond=59&discipline=&subject=&type=&coverage=&indexTerms=
+
+=================================================================
+
+Os sistemas de recomendação tornaram-se uma importante área de pesquisa desde o aparecimento dos primeiros artigos sobre filtragem colaborativa em meados da década de 90 [45], [86], [97]. Tem havido muito trabalho feito na indústria e na academia no desenvolvimento de novas abordagens para recomendar sistemas ao longo da última década. O interesse nesta área ainda permanece elevado porque constitui uma área de pesquisa rica em problemas e devido à abundância de aplicações práticas que ajudam os usuários a lidar com a sobrecarga de informações e fornecer recomendações personalizadas, conteúdo e serviços para eles. Exemplos de tais aplicações incluem recomendar livros, CDs e outros produtos na Amazon.com [61], filmes por MovieLens [67] e notícias em VERSIFI Technologies (anteriormente AdaptiveInfo.com) [14].
