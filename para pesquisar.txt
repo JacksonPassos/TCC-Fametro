@@ -1,0 +1,22 @@
+mendeley
+
+
+google academicos
+
+research gate
+
+science direct
+
+
+sci-hub.cc
+
+
+
+latek => ferramenta para criação de artigos
+
+https://www.youtube.com/watch?v=fhM-SJimHq4     ======> Sistema de Recomendação por Filtragem Colaborativa
+
+http://www.recsyswiki.com/wiki/Main_Page       ======> Wiki com vária pesquisas da área
+
+
+http://lenskit.org/research/  
